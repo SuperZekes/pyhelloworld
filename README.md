@@ -1,2 +1,2 @@
 # pyhelloworld
-python says hello to everything!
+Python says hello to everything!
